@@ -1,19 +1,53 @@
 .wik-logo {
   height: 160px;
   width: 160px;
-
+  float: left;
 }
 .list {
   list-style-type: none;
   list-style-image: none;
 }
 .navbar-1 {
-  width: 161px;
+  width: 160px;
   height: auto;
+  background-color: #f6f6f6;
 }
 .nav-panles h5 {
   margin-left: 20px;
 }
 .nav-panles {
   border-bottom: 2px solid gray;
+}
+.navbar-top {
+
+  height: 65px;
+  width: auto;
+  background-color: #f6f6f6;
+}
+.top-bar-text {
+  float: right;
+}
+.space {
+  padding-right: 10px;
+}
+
+.bottom-left-text {
+  float: left;
+  padding-top: 65px;
+  border-bottom: 1px solid lightblue;
+  background-color: #f6f6f6;
+}
+.space-1 {
+  border-left: 1px solid lightblue;
+  border-right: 1px solid lightblue;
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+
+a:hover {
+  active: black;
+}
+
+.bottom-left-text {
 }
