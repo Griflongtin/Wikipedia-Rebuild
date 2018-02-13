@@ -16,8 +16,7 @@ _Displays a rebuild of wikipedia site_
 * Copy and paste this:
 * cd ~
 * cd desktop
-* git clone https://github.com/Griflongtin/Unit-367.git
-
+* git clone https://github.com/Griflongtin/Wikipedia-Rebuild.git
 * Then open the HTML file in the folder
 
 ## Support and contact details
